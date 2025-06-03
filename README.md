@@ -1,4 +1,3 @@
-# Chef-Project-Auto-Clone
 # Chef Automatic Clone Full Project, Create New Repo, Commit And Push Changes
 
 ## Step 1: Launch AWS Instance and Login

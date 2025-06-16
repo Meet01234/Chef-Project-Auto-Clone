@@ -1,5 +1,7 @@
 # Chef Automatic Clone Full Project, Create New Repo, Commit And Push Changes
 
+![Screenshot](C.png)
+
 ## Step 1: Launch AWS Instance and Login
 
 1. Log in to AWS and create an EC2 instance (Ubuntu).
